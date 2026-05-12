@@ -6,7 +6,7 @@ Organova develops browser-based virtual instruments and MIDI hardware for organi
 
 The first browser-based virtual instrument platform for pipe organs and keyboards. Play directly in your web browser with any MIDI keyboard — no installation, no downloads, no plugins required.
 
-**Supported platforms:** Mac (best for ultra-low latency), Windows, ChromeBook, Android tablets, and any device running Chrome, Firefox, Edge, or Safari and supporting WebMIDI.
+**Supported platforms:** Mac (best for ultra-low latency), Windows, ChromeBook, Android tablets, and any device running Chrome and supporting WebMIDI.
 
 **Instruments available:**
 - Pipe organs sampled from real historical instruments in France, Sweden, and Switzerland (up to 3 manuals + pedalboard)
