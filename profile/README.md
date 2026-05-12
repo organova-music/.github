@@ -35,6 +35,8 @@ A complete redesign of the traditional organ pedalboard. 27 keys (C to D), all-s
 |---|---|
 | Website | [organova.music](https://www.organova.music) |
 | YouTube | [@organova](https://www.youtube.com/@organova) |
+| TikTok | [organova.music](https://www.tiktok.com/@organova.music) |
+| Facebook | [organova.music](https://www.facebook.com/organova.music/) |
 
 ## About
 
